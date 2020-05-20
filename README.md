@@ -1,5 +1,4 @@
 # Chatbot-for-COVID-19
-Resolved the queries of citizens and provide them recommendations based on their sentiments
 
 As Covid-19 has been declared a pandemic on 11 March 2020 by WHO (World Health Organization), we have decided to contribute in fighting this disease by building a husky chatbot using AI (Artificial Intelligence). In this project, queries and sentiments of user is handled using:
 1.	Socket Programming: In this project, it contains a server and client script which has the capability to handle multiple client or user who can connect to the server at the same time.
