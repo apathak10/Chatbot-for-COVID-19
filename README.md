@@ -11,5 +11,8 @@ While building this chatbot, we faced the following challenges and resolved at t
 2.	After merging the separate codes for topic identification, cosine similarity and sentiment analysis in socket programming, integration failed at many instances
 By incorporating the important resources in an excel sheet, this chatbot has feature of being highly flexible and configurable. As far as drawback are concerned, chatbot can be made much faster in response from user and excel sheets needs to be regularly updated to provide constantly changing situations of COVID-19. As sky is the limit while building a chatbot, therefore many scopes exists for building a chatbot like very attractive front-end, more classification of sentiment analysis and more sophisticated system to give recommendations to user.
 
+Execution of project:
+To run the provided script of Server.py and Client.py, view the document file named Project_Chatbot_Working_Demo.
+
 Refer link to view presentation of project:
 https://www.youtube.com/watch?v=R0PgcOl-Vhc&feature=youtu.be
